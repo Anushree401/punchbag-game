@@ -21,12 +21,7 @@ For this game, I used:
 ---
 ## Demonstration 
 
-<iframe 
-    src="https://drive.google.com/file/d/1NlBnPwFokFYN5CRJnVfLJMf_6h-IzzvE/preview" 
-    width="640" 
-    height="480" 
-    allow="autoplay">
-</iframe>
+[Watch Video](https://drive.google.com/file/d/1NlBnPwFokFYN5CRJnVfLJMf_6h-IzzvE/view?usp=sharing)
 
 ---
 
