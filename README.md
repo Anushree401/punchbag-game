@@ -21,7 +21,7 @@ For this game, I used:
 ---
 ## Demonstration 
 
-[![Demo](demo.mp4)](demo.mp4 "Demo")
+[![Demo](./demo.mp4)](./demo.mp4 "Demo")
 ---
 
 # Thank You :)
