@@ -21,8 +21,7 @@ For this game, I used:
 ---
 ## Demonstration 
 
-<video src="demo.mp4" controls width="500">
-</video>
+[Watch Video](./demo.mp4)
 
 ---
 
